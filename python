@@ -1,0 +1,3 @@
+name = ['tamar', 'anna', 'maya']
+for i in name:
+  print (i)
